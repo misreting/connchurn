@@ -1,0 +1,7 @@
+/connchurn
+/demo
+*.exe
+*.test
+*.out
+coverage.txt
+coverage.html
