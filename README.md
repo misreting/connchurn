@@ -28,7 +28,7 @@ monitoring, etc.) is still your call.
 ## Install
 
 ```sh
-go get github.com/__GH_OWNER__/connchurn
+go get github.com/agentscope-ai-java/connchurn
 ```
 
 Standard library only — no runtime dependencies. See `go.mod` for the minimum

@@ -16,7 +16,7 @@ import (
 	"os"
 	"sync"
 
-	"github.com/__GH_OWNER__/connchurn"
+	"github.com/agentscope-ai-java/connchurn"
 )
 
 const (
